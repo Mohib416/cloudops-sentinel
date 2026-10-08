@@ -372,6 +372,33 @@ Push to GitHub
 GitHub Actions checks the project
 ```
 
+## Screenshots
+
+### Project Structure
+
+![Project Structure](./screenshots/01-project-structure.png)
+
+### System Checker Tests
+
+![System Checker Tests](./screenshots/02-tests-system-checker.png)
+
+### JSON Report
+
+![JSON Report](./screenshots/03-json-report.png)
+
+### All Tests Passing
+
+![All Tests Passing](./screenshots/04-tests-passing.png)
+
+### Main Program and Logging
+
+![Main Program and Logging](./screenshots/05-main-and-logging.png)
+
+### GitHub Actions
+
+![GitHub Actions](./screenshots/06-github-actions-success.png)
+
+
 ---
 
 ## Future Improvements
